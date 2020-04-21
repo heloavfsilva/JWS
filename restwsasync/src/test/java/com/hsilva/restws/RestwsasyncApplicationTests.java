@@ -1,0 +1,13 @@
+package com.hsilva.restws;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RestwsasyncApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
